@@ -1,0 +1,16 @@
+header { background-color: black;
+    color: lightgray;
+    display: table;
+    margin: auto; 
+    }
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body{
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0;
+}
