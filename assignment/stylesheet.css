@@ -1,7 +1,8 @@
 header { background-color: black;
     color: lightgray;
     display: table;
-    margin: auto; 
+    margin: auto;
+    text-align: center; 
     }
 
 main {
@@ -14,3 +15,9 @@ body{
     background-repeat: repeat;
     margin: 0;
 }
+
+
+.body {color: orangered;
+font-family:fantasy;
+text-align: right;}
+
